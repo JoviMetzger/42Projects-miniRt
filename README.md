@@ -240,7 +240,7 @@ while (++i < Number_of_objects)
 			- Phong reflection model
 				- Ambient Light (General illumination in the scene)
 				- Diffuse Light (Direct light from the source)
-				- vSpecular Light (Highlights on shiny surfaces)
+				- Specular Light (Highlights on shiny surfaces)
 		}
 	}
 	- Clamp Light result, so the rgb colours don't overflow, if it overflows it prints black.
